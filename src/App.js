@@ -1,6 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 
+import { FormRicerca } from "./components/FormRicerca";
+import { Result } from "./components/Result";
+import { Movie }  from "./components/Movie";
+import { Paginazione }  from "./components/Paginazione";
+
 function App() {
   return (
     <div className="App">
